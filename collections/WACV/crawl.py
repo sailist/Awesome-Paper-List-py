@@ -73,29 +73,18 @@ def write_file(name, links):
         print(f' - Totally write {count} papers')
 
 
+write_file('2023', [
+    'https://openaccess.thecvf.com/WACV2023',
+])
+
 write_file('2022', [
-    'https://openaccess.thecvf.com/CVPR2022?day=2022-06-21',
-    'https://openaccess.thecvf.com/CVPR2022?day=2022-06-22',
-    'https://openaccess.thecvf.com/CVPR2022?day=2022-06-23',
-    'https://openaccess.thecvf.com/CVPR2022?day=2022-06-24',
+    'https://openaccess.thecvf.com/WACV2022',
 ])
 
 write_file('2021', [
-    'https://openaccess.thecvf.com/CVPR2021?day=2021-06-21',
-    'https://openaccess.thecvf.com/CVPR2021?day=2021-06-22',
-    'https://openaccess.thecvf.com/CVPR2021?day=2021-06-23',
-    'https://openaccess.thecvf.com/CVPR2021?day=2021-06-24',
-    'https://openaccess.thecvf.com/CVPR2021?day=2021-06-25',
+    'https://openaccess.thecvf.com/WACV2021',
 ])
 
 write_file('2020', [
-    'https://openaccess.thecvf.com/CVPR2020.py?day=2020-06-16',
-    'https://openaccess.thecvf.com/CVPR2020.py?day=2020-06-17',
-    'https://openaccess.thecvf.com/CVPR2020.py?day=2020-06-18',
-])
-
-write_file('2019', [
-    'https://openaccess.thecvf.com/CVPR2019.py?day=2019-06-18',
-    'https://openaccess.thecvf.com/CVPR2019.py?day=2019-06-19',
-    'https://openaccess.thecvf.com/CVPR2019.py?day=2019-06-20',
+    'https://openaccess.thecvf.com/WACV2020',
 ])

@@ -25,7 +25,7 @@ def process_group(g, fmt):
 
     href = g[0].a
 
-    title = href.string
+    title = href.get_text()
     url = urljoin('https://openaccess.thecvf.com/', href.attrs['href'])
 
     mstr = f'{title}'
@@ -73,29 +73,18 @@ def write_file(name, links):
         print(f' - Totally write {count} papers')
 
 
-write_file('2022', [
-    'https://openaccess.thecvf.com/CVPR2022?day=2022-06-21',
-    'https://openaccess.thecvf.com/CVPR2022?day=2022-06-22',
-    'https://openaccess.thecvf.com/CVPR2022?day=2022-06-23',
-    'https://openaccess.thecvf.com/CVPR2022?day=2022-06-24',
-])
-
 write_file('2021', [
-    'https://openaccess.thecvf.com/CVPR2021?day=2021-06-21',
-    'https://openaccess.thecvf.com/CVPR2021?day=2021-06-22',
-    'https://openaccess.thecvf.com/CVPR2021?day=2021-06-23',
-    'https://openaccess.thecvf.com/CVPR2021?day=2021-06-24',
-    'https://openaccess.thecvf.com/CVPR2021?day=2021-06-25',
-])
-
-write_file('2020', [
-    'https://openaccess.thecvf.com/CVPR2020.py?day=2020-06-16',
-    'https://openaccess.thecvf.com/CVPR2020.py?day=2020-06-17',
-    'https://openaccess.thecvf.com/CVPR2020.py?day=2020-06-18',
+    'https://openaccess.thecvf.com/ICCV2021?day=2021-10-12',
+    'https://openaccess.thecvf.com/ICCV2021?day=2021-10-13',
 ])
 
 write_file('2019', [
-    'https://openaccess.thecvf.com/CVPR2019.py?day=2019-06-18',
-    'https://openaccess.thecvf.com/CVPR2019.py?day=2019-06-19',
-    'https://openaccess.thecvf.com/CVPR2019.py?day=2019-06-20',
+    'https://openaccess.thecvf.com/ICCV2019.py?day=2019-10-29',
+    'https://openaccess.thecvf.com/ICCV2019.py?day=2019-10-30',
+    'https://openaccess.thecvf.com/ICCV2019.py?day=2019-10-31',
+    'https://openaccess.thecvf.com/ICCV2019.py?day=2019-11-01',
+])
+
+write_file('2017', [
+    'https://openaccess.thecvf.com/ICCV2017',
 ])
