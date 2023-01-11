@@ -1,0 +1,207 @@
+Temporal Coherence, Natural Image Sequences, and the Visual Cortex 
+Nonparametric Representation of Policies and Value Functions: A Trajectory-Based Approach 
+A Differential Semantics for Jointree Algorithms 
+"Name That Song!" A Probabilistic Approach to Querying on Music and Text 
+Automatic Derivation of Statistical Algorithms: The EM Family and Beyond 
+Going Metric: Denoising Pairwise Data 
+String Kernels, Fisher Kernels and Finite State Automata 
+Extracting Relevant Structures with Side Information 
+Classifying Patterns of Visual Motion - a Neuromorphic Approach 
+How the Poverty of the Stimulus Solves the Poverty of the Stimulus 
+Fast Transformation-Invariant Factor Analysis 
+Spikernels: Embedding Spiking Neurons in Inner-Product Spaces 
+Graph-Driven Feature Extraction From Microarray Data Using Diffusion Kernels and Kernel CCA 
+Spike Timing-Dependent Plasticity in the Address Domain 
+Efficient Learning Equilibrium 
+Using Tarjan's Red Rule for Fast Dependency Tree Construction 
+Approximate Inference and Protein-Folding 
+Learning a Forward Model of a Reflex 
+Information Regularization with Partially Labeled Data 
+Intrinsic Dimension Estimation Using Packing Numbers 
+Mismatch String Kernels for SVM Protein Classification 
+Adaptive Caching by Refetching 
+Timing and Partial Observability in the Dopamine System 
+Multiple Cause Vector Quantization 
+Unsupervised Color Constancy 
+Value-Directed Compression of POMDPs 
+Constraint Classification for Multiclass Classification and Ranking 
+Neural Decoding of Cursor Motion Using a Kalman Filter 
+On the Dirichlet Prior and Bayesian Regularization 
+Scaling of Probability-Based Optimization Algorithms 
+Forward-Decoding Kernel-Based Phone Recognition 
+Optoelectronic Implementation of a FitzHugh-Nagumo Neural Model 
+Margin-Based Algorithms for Information Filtering 
+Half-Lives of EigenFlows for Spectral Clustering 
+The RA Scanner: Prediction of Rheumatoid Joint Inflammation Based on Laser Imaging 
+Optimality of Reinforcement Learning Algorithms with Linear Function Approximation 
+Evidence Optimization Techniques for Estimating Stimulus-Response Functions 
+Binary Coding in Auditory Cortex 
+Learning Attractor Landscapes for Learning Motor Primitives 
+Combining Dimensions and Features in Similarity-Based Representations 
+Bayesian Monte Carlo 
+A Model for Learning Variance Components of Natural Images 
+Effective Dimension and Generalization of Kernel Learning 
+Nash Propagation for Loopy Graphical Games 
+Neuromorphic Bisable VLSI Synapses with Spike-Timing-Dependent Plasticity 
+Source Separation with a Sensor Array using Graphical Models and Subband Filtering 
+Dopamine Induced Bistability Enhances Signal Processing in Spiny Neurons 
+An Information Theoretic Approach to the Functional Classification of Neurons 
+An Asynchronous Hidden Markov Model for Audio-Visual Speech Recognition 
+Shape Recipes: Scene Representations that Refer to the Image 
+Real-Time Particle Filters 
+Critical Lines in Symmetry of Mixture Models and its Application to Component Splitting 
+Manifold Parzen Windows 
+Parametric Mixture Models for Multi-Labeled Text 
+Transductive and Inductive Methods for Approximate Gaussian Process Regression 
+Adapting Codes and Embeddings for Polychotomies 
+Topographic Map Formation by Silicon Growth Cones 
+Analysis of Information in Speech Based on MANOVA 
+Discriminative Binaural Sound Localization 
+Fractional Belief Propagation 
+Stability-Based Model Selection 
+Hidden Markov Model of Cortical Synaptic Plasticity: Derivation of the Learning Rule 
+Automatic Alignment of Local Representations 
+Field-Programmable Learning Arrays 
+Boosting Density Estimation 
+Support Vector Machines for Multiple-Instance Learning 
+Bias-Optimal Incremental Problem Solving 
+Rate Distortion Function in the Spin Glass State: A Toy Model 
+Adaptive Nonlinear System Identification with Echo State Networks 
+Real Time Voice Processing with Audiovisual Feedback: Toward Autonomous Agents with Perfect Pitch 
+An Impossibility Theorem for Clustering 
+Visual Development Aids the Acquisition of Motion Velocity Sensitivities 
+On the Complexity of Learning the Kernel Matrix 
+Clustering with the Fisher Score 
+Artefactual Structure from Least-Squares Multidimensional Scaling 
+Adaptation and Unsupervised Learning 
+Learning in Zero-Sum Team Markov Games Using Factored Value Functions 
+Convergence Properties of Some Spike-Triggered Analysis Techniques 
+Learning to Take Concurrent Actions 
+Handling Missing Data with Variational Bayesian Learning of ICA 
+Ranking with Large Margin Principle: Two Approaches 
+A Bilinear Model for Sparse Coding 
+Data-Dependent Bounds for Bayesian Mixture Methods 
+Information Diffusion Kernels 
+Boosted Dyadic Kernel Discriminants 
+Derivative Observations in Gaussian Process Models of Dynamic Systems 
+Global Versus Local Methods in Nonlinear Dimensionality Reduction 
+Learning Graphical Models with Mercer Kernels 
+Stochastic Neighbor Embedding 
+Learning in Spiking Neural Assemblies 
+A Model for Real-Time Computation in Generic Neural Microcircuits 
+Categorization Under Complexity: A Unified MDL Account of Human Learning of Regular and Irregular Categories 
+Learning with Multiple Labels 
+Branching Law for Axons 
+Dyadic Classification Trees via Structural Risk Minimization 
+PAC-Bayes & Margins 
+Dynamical Causal Learning 
+Maximally Informative Dimensions: Analyzing Neural Responses to Natural Signals 
+Fast Exact Inference with a Factored Model for Natural Language Parsing 
+Morton-Style Factorial Coding of Color in Primary Visual Cortex 
+One-Class LP Classifiers for Dissimilarity Representations 
+Regularized Greedy Importance Sampling 
+Modeling Midazolam's Effect on the Hippocampus and Recognition Memory 
+Fast Kernels for String and Tree Matching 
+Expected and Unexpected Uncertainty: ACh and NE in the Neocortex 
+Feature Selection and Classification on Matrix Data: From Large Margins to Small Covering Numbers 
+Learning Semantic Similarity 
+How Linear are Auditory Cortical Responses? 
+Incremental Gaussian Processes 
+Dynamic Bayesian Networks with Deterministic Latent Tables 
+Generalized² Linear² Models 
+Spectro-Temporal Receptive Fields of Subthreshold Responses in Auditory Cortex 
+Bayesian Models of Inductive Generalization 
+Dynamical Constraints on Computing with Spike Timing in the Cortex 
+Bayesian Estimation of Time-Frequency Coefficients for Audio Signal Enhancement 
+Real-Time Monitoring of Complex Industrial Processes with Particle Filters 
+Retinal Processing Emulation in a Programmable 2-Layer Analog Array Processor CMOS Chip 
+Bayesian Image Super-Resolution 
+Charting a Manifold 
+A Minimal Intervention Principle for Coordinated Movement 
+A Probabilistic Approach to Single Channel Blind Signal Separation 
+A Digital Antennal Lobe for Pattern Equalization: Analysis and Design 
+Knowledge-Based Support Vector Machine Classifiers 
+Conditional Models on the Ranking Poset 
+A Formulation for Minimax Probability Machine Regression 
+Multiclass Learning by Probabilistic Embeddings 
+Improving a Page Classifier with Anchor Extraction and Link Analysis 
+VIBES: A Variational Inference Engine for Bayesian Networks 
+A Convergent Form of Approximate Policy Iteration 
+Mean Field Approach to a Probabilistic Model in Information Retrieval 
+Exponential Family PCA for Belief Compression in POMDPs 
+Dynamic Structure Super-Resolution 
+Independent Components Analysis through Product Density Estimation 
+Discriminative Densities from Maximum Contrast Estimation 
+Interpreting Neural Response Variability as Monte Carlo Sampling of the Posterior 
+Combining Features for BCI 
+A Probabilistic Model for Learning Concatenative Morphology 
+The Decision List Machine 
+How to Combine Color and Shape Information for 3D Object Recognition: Kernels do the Trick 
+Reconstructing Stimulus-Driven Neural Networks from Spike Times 
+Selectivity and Metaplasticity in a Unified Calcium-Dependent Model 
+Learning to Detect Natural Image Boundaries Using Brightness and Texture 
+Concurrent Object Recognition and Segmentation by Graph Partitioning 
+Approximate Linear Programming for Average-Cost Dynamic Programming 
+Learning Sparse Topographic Representations with Products of Student-t Distributions 
+Margin Analysis of the LVQ Algorithm 
+Feature Selection by Maximum Marginal Diversity 
+A Neural Edge-Detection Model for Enhanced Auditory Sensitivity in Modulated Noise 
+Concentration Inequalities for the Missing Mass and for Histogram Rule Error 
+Learning Sparse Multiscale Image Representations 
+The Effect of Singularities in a Learning Machine when the True Parameters Do Not Lie on such Singularities 
+Learning About Multiple Objects in Images: Factorial Learning without Factorial Search 
+Distance Metric Learning with Application to Clustering with Side-Information 
+Location Estimation with a Differential Update Network 
+Hyperkernels 
+Prediction and Semantic Association 
+A Maximum Entropy Approach to Collaborative Filtering in Dynamic, Sparse, High-Dimensional Domains 
+Annealing and the Rate Distortion Problem 
+Self Supervised Boosting 
+An Estimation-Theoretic Framework for the Presentation of Multiple Stimuli 
+Convergent Combinations of Reinforcement Learning with Linear Function Approximation 
+Informed Projections 
+Automatic Acquisition and Efficient Representation of Syntactic Structures 
+Application of Variational Bayesian Approach to Speech Recognition 
+Stable Fixed Points of Loopy Belief Propagation Are Local Minima of the Bethe Free Energy 
+Identity Uncertainty and Citation Matching 
+Fast Sparse Gaussian Process Methods: The Informative Vector Machine 
+Recovering Articulated Model Topology from Observed Rigid Motion 
+Learning to Perceive Transparency from the Statistics of Natural Scenes 
+Replay, Repair and Consolidation 
+Inferring a Semantic Representation of Text via Cross-Language Correlation Analysis 
+Cluster Kernels for Semi-Supervised Learning 
+A Hierarchical Bayesian Markovian Model for Motifs in Biopolymer Sequences 
+Speeding up the Parti-Game Algorithm 
+Kernel-Based Extraction of Slow Features: Complex Cells Learn Disparity and Translation Invariance from Natural Images 
+Monaural Speech Separation 
+Multiplicative Updates for Nonnegative Quadratic Programming in Support Vector Machines 
+Kernel Design Using Boosting 
+Rational Kernels 
+Linear Combinations of Optic Flow Vectors for Estimating Self-Motion - a Real-World Test of a Neural Model 
+Kernel Dependency Estimation 
+Circuit Model of Short-Term Synaptic Dynamics 
+Coulomb Classifiers: Generalizing Support Vector Machines via an Analogy to Electrostatic Systems 
+Robust Novelty Detection with Single-Class MPM 
+Binary Tuning is Optimal for Neural Rate Coding with High Temporal Resolution 
+Feature Selection in Mixture-Based Clustering 
+Minimax Differential Dynamic Programming: An Application to Robust Biped Walking 
+Theory-Based Causal Inference 
+Learning to Classify Galaxy Shapes Using the EM Algorithm 
+FloatBoost Learning for Classification 
+Adaptive Scaling for Feature Selection in SVMs 
+Adaptive Classification by Variational Kalman Filtering 
+A Statistical Mechanics Approach to Approximate Analytical Bootstrap Averages 
+Developing Topography and Ocular Dominance Using Two aVLSI Vision Sensors and a Neurotrophic Model of Plasticity 
+Gaussian Process Priors with Uncertain Inputs Application to Multiple-Step Ahead Time Series Forecasting 
+Maximum Likelihood and the Information Bottleneck 
+The Stability of Kernel Principal Components Analysis and its Relation to the Process Eigenspectrum 
+Adaptive Quantization and Density Estimation in Silicon 
+Improving Transfer Rates in Brain Computer Interfacing: A Case Study 
+Discriminative Learning for Label Sequences via Boosting 
+Reinforcement Learning to Play an Optimal Nash Equilibrium in Team Markov Games 
+Using Manifold Stucture for Partially Labeled Classification 
+Recovering Intrinsic Images from a Single Image 
+A Note on the Representational Incompatibility of Function Approximation and Factored Dynamics 
+A Prototype for Automatic Recognition of Spontaneous Facial Actions 
+Exact MAP Estimates by (Hyper)tree Agreement 
+Prediction of Protein Topologies Using Generalized IOHMMs and RNNs 

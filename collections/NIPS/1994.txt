@@ -1,0 +1,140 @@
+SIMPLIFYING NEURAL NETS BY DISCOVERING FLAT MINIMA 
+A Model of the Neural Basis of the Rat's Sense of Direction 
+A Mixture Model System for Medical and Machine Diagnosis 
+Learning with Preknowledge: Clustering with Point and Graph Matching Distance Measures 
+Learning Local Error Bars for Nonlinear Regression 
+Reinforcement Learning Methods for Continuous-Time Markov Decision Problems 
+Connectionist Speaker Normalization with Generalized Resource Allocating Networks 
+A Novel Reinforcement Model of Birdsong Vocalization Learning 
+Bias, Variance and the Combination of Least Squares Estimators 
+Hierarchical Mixtures of Experts Methodology Applied to Continuous Speech Recognition 
+A Comparison of Discrete-Time Operator Models for Nonlinear System Identification 
+Learning Many Related Tasks at the Same Time with Backpropagation 
+Multidimensional Scaling and Data Clustering 
+Predicting the Risk of Complications in Coronary Artery Bypass Operations using Neural Networks 
+Spatial Representations in the Parietal Cortex May Use Basis Functions 
+Reinforcement Learning Algorithm for Partially Observable Markov Decision Problems 
+FINANCIAL APPLICATIONS OF LEARNING FROM HINTS 
+An Auditory Localization and Coordinate Transform Chip 
+Limits on Learning Machine Accuracy Imposed by Data Quality 
+Interference in Learning Internal Models of Inverse Dynamics in Humans 
+Optimal Movement Primitives 
+Using a Saliency Map for Active Spatial Selective Attention: Implementation & Initial Results 
+Factorial Learning and the EM Algorithm 
+Pairwise Neural Network Classifiers with Probabilistic Outputs 
+Real-Time Control of a Tokamak Plasma Using Neural Networks 
+An Actor/Critic Algorithm that is Equivalent to Q-Learning 
+Template-Based Algorithms for Connectionist Rule Extraction 
+Reinforcement Learning with Soft State Aggregation 
+A Connectionist Technique for Accelerated Textual Input: Letting a Network Do the Typing 
+Advantage Updating Applied to a Differential Game 
+Pattern Playback in the 90s 
+An Analog Neural Network Inspired by Fractal Block Coding 
+Phase-Space Learning 
+An experimental comparison of recurrent neural networks 
+Inferring Ground Truth from Subjective Labelling of Venus Images 
+Learning Prototype Models for Tangent Distance 
+Diffusion of Credit in Markovian Models 
+The Ni1000: High Speed Parallel VLSI for Implementing Multilayer Perceptrons 
+Model of a Biological Neuron as a Temporal Neural Network 
+Non-linear Prediction of Acoustic Vectors Using Hierarchical Mixtures of Experts 
+JPMAX: Learning to Recognize Moving Objects as a Model-fitting Problem 
+The Electrotonic Transformation: a Tool for Relating Neuronal Form to Function 
+Dynamic Modelling of Chaotic Time Series with Neural Networks 
+Boltzmann Chains and Hidden Markov Models 
+Learning with Product Units 
+Efficient Methods for Dealing with Missing Data in Supervised Learning 
+Predictive Coding with Neural Nets: Application to Text Compression 
+Computational Structure of coordinate transformations: A generalization study 
+Recognizing Handwritten Digits Using Mixtures of Linear Models 
+A Critical Comparison of Models for Orientation and Ocular Dominance Columns in the Striate Cortex 
+Classifying with Gaussian Mixtures and Clusters 
+Anatomical origin and computational role of diversity in the response properties of cortical neurons 
+Synchrony and Desynchrony in Neural Oscillator Networks 
+A Computational Model of Prefrontal Cortex Function 
+Combining Estimators Using Non-Constant Weighting Functions 
+Stochastic Dynamics of Three-State Neural Networks 
+On the Computational Utility of Consciousness 
+Ocular Dominance and Patterned Lateral Connections in a Self-Organizing Model of the Primary Visual Cortex 
+Effects of Noise on Convergence and Generalization in Recurrent Networks 
+An Integrated Architecture of Adaptive Neural Network Control for Dynamic Systems 
+Implementation of Neural Hardware with the Neural VLSI of URAN in Applications with Reduced Representations 
+Estimating Conditional Probability Densities for Periodic Variables 
+Analysis of Unstandardized Contributions in Cross Connected Networks 
+A Rigorous Analysis of Linsker-type Hebbian Learning 
+Associative Decorrelation Dynamics: A Theory of Self-Organization and Optimization in Feedback Networks 
+Visual Speech Recognition with Stochastic Networks 
+Finding Structure in Reinforcement Learning 
+Active Learning with Statistical Models 
+From Data Distributions to Regularization in Invariant Learning 
+An Input Output HMM Architecture 
+Grouping Components of Three-Dimensional Moving Objects in Area MST of Visual Cortex 
+Higher Order Statistical Decorrelation without Information Loss 
+Sample Size Requirements for Feedforward Neural Networks 
+Generalisation in Feedforward Networks 
+The Use of Dynamic Writing Information in a Connectionist On-Line Cursive Handwriting Recognition System 
+Direct Multi-Step Time Series Prediction Using TD(λ) 
+Capacity and Information Efficiency of a Brain-like Associative Net 
+SARDNET: A Self-Organizing Feature Map for Sequences 
+Deterministic Annealing Variant of the EM Algorithm 
+A Non-linear Information Maximisation Algorithm that Performs Blind Separation 
+Pulsestream Synapses with Non-Volatile Analogue Amorphous-Silicon Memories 
+Dynamic Cell Structures 
+Single Transistor Learning Synapses 
+Comparing the prediction accuracy of artificial neural networks and other statistical models for breast cancer survival 
+Learning direction in global motion: two classes of psychophysically-motivated models 
+On-line Learning of Dichotomies 
+Asymptotics of Gradient-based Neural Network Training Algorithms 
+Convergence Properties of the K-Means Algorithms 
+Using Voice Transformations to Create Additional Training Talkers for Word Spotting 
+Forward dynamic models in human motor control: Psychophysical evidence 
+Direction Selectivity In Primary Visual Cortex Using Massive Intracortical Connections 
+Bayesian Query Construction for Neural Network Models 
+A Silicon Axon 
+Plasticity-Mediated Competitive Learning 
+Active Learning for Function Approximation 
+Patterns of damage in neural networks: The effects of lesion area, shape and number 
+A Study of Parallel Perturbative Gradient Descent 
+A Neural Model of Delusions and Hallucinations in Schizophrenia 
+Correlation and Interpolation Networks for Real-time Expression Analysis/Synthesis 
+Neural Network Ensembles, Cross Validation, and Active Learning 
+Extracting Rules from Artificial Neural Networks with Distributed Representations 
+A model of the hippocampus combining self-organization and associative memory function 
+Glove-TalkII: Mapping Hand Gestures to Speech Using Neural Networks 
+Learning in large linear perceptrons and why the thermodynamic limit is relevant to the real world 
+Learning Saccadic Eye Movements Using Multiscale Spatial Filters 
+A Charge-Based CMOS Parallel Analog Vector Quantizer 
+Boosting the Performance of RBF Networks with Dynamic Decay Adjustment 
+An Alternative Model for Mixtures of Experts 
+Catastrophic Interference in Human Motor Learning 
+On the Computational Complexity of Networks of Spiking Neurons 
+New Algorithms for 2D and 3D Point Matching: Pose Estimation and Correspondence 
+PCA-Pyramids for Image Compression 
+Morphogenesis of the Lateral Geniculate Nucleus: How Singularities Affect Global Structure 
+Reinforcement Learning Predicts the Site of Plasticity for Auditory Remapping in the Barn Owl 
+A Lagrangian Formulation For Optical Backpropagation Training In Kerr-Type Optical Networks 
+Instance-Based State Identification for Reinforcement Learning 
+Nonlinear Image Interpolation using Manifold Learning 
+A Growing Neural Gas Network Learns Topologies 
+Transformation Invariant Autoassociation with Application to Handwritten Character Recognition 
+Learning to Play the Game of Chess 
+Interior Point Implementations of Alternating Minimization Training 
+A Convolutional Neural Network Hand Tracker 
+Temporal Dynamics of Generalization in Neural Networks 
+Learning Stochastic Perceptrons Under k-Blocking Distributions 
+Recurrent Networks: Second Order Properties and Pruning 
+Unsupervised Classification of 3D Objects from 2D Views 
+Hyperparameters Evidence and Generalisation for an Unrealisable Rule 
+Adaptive Elastic Input Field for Recognition Improvement 
+A Model for Chemosensory Reception 
+A Real Time Clustering CMOS Neural Engine 
+Learning from queries for maximum information gain in imperfectly learnable problems 
+Factorial Learning by Clustering Features 
+Generalization in Reinforcement Learning: Safely Approximating the Value Function 
+A Rapid Graph-based Method for Arbitrary Transformation-Invariant Pattern Classification 
+A solvable connectionist model of immediate recall of ordered lists 
+H∞ Optimal Training Algorithms and their Relation to Backpropagation 
+Using a neural net to instantiate a deformable model 
+Grammar Learning by a Self-Organizing Network 
+Coarse-to-Fine Image Search Using Neural Networks 
+ICEG Morphology Classification using an Analogue VLSI Neural Network 

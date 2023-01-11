@@ -1,0 +1,90 @@
+Bit-Serial Neural Networks 
+Connectivity Versus Entropy 
+The Hopfield Model with Multi-Level Neurons 
+How Neural Nets Work 
+Spatial Organization of Neural Networks: A Probabilistic Modeling Approach 
+A Neural-Network Solution to the Concentrator Assignment Problem 
+LEARNING BY STATE RECURRENCE DETECTION 
+Stability Results for Neural Networks 
+Introduction to a System for Implementing Neural Net Connections on SIMD Architectures 
+Optimization with Artificial Neural Network Systems: A Mapping Principle and a Comparison to Gradient Based Methods 
+Optimal Neural Spike Classification 
+REFLEXIVE ASSOCIATIVE MEMORIES 
+The Performance of Convex Set Projection Based Neural Networks 
+Speech Recognition Experiments with Perceptrons 
+On Properties of Networks of Neuron-Like Elements 
+Ensemble' Boltzmann Units have Collective Computational Properties like those of Hopfield and Tank Neurons 
+On Tropistic Processing and Its Applications 
+Neuromorphic Networks Based on Sparse Optical Orthogonal Codes 
+A 'Neural' Network that Learns to Play Backgammon 
+Learning Representations by Recirculation 
+A Computer Simulation of Cerebral Neocortex: Computational Capabilities of Nonlinear Neural Networks 
+PATTERN CLASS DEGENERACY IN AN UNRESTRICTED STORAGE DENSITY MEMORY 
+Strategies for Teaching Layered Networks Classification Tasks 
+Invariant Object Recognition Using a Distributed Associative Memory 
+Cycles: A Simulation Tool for Studying Cyclic Neural Networks 
+Learning on a General Network 
+Neural Net and Traditional Classifiers 
+Scaling Properties of Coarse-Coded Symbol Memories 
+Synchronization in Neural Nets 
+A NEURAL NETWORK CLASSIFIER BASED ON CODING THEORY 
+Microelectronic Implementations of Connectionist Neural Networks 
+Analysis of Distributed Representation of Constituent Structure in Connectionist Systems 
+Hierarchical Learning Control - An Approach with Neuron-Like Associative Memories 
+Presynaptic Neural Information Processing 
+An Optimization Network for Matrix Inversion 
+Basins of Attraction for Electronic Neural Networks 
+Programmable Synaptic Chip for Electronic Neural Networks 
+Learning a Color Algorithm from Examples 
+Generalization of Back propagation to Recurrent and Higher Order Neural Networks 
+Neural Network Implementation Approaches for the Connection Machine 
+On the Power of Neural Networks for Solving Hard Problems 
+HOW THE CATFISH TRACKS ITS PREY: AN INTERACTIVE "PIPELINED" PROCESSING SYSTEM MAY DIRECT FORAGING VIA RETICULOSPINAL NEURONS 
+Phasor Neural Networks 
+Computing Motion Using Resistive Networks 
+Experimental Demonstrations of Optical Neural Computers 
+MURPHY: A Robot that Learns by Doing 
+SPONTANEOUS AND  INFORMATION-TRIGGERED SEGMENTS OF SERIES OF HUMAN BRAIN ELECTRIC FIELD MAPS 
+Simulations Suggest Information Processing Roles for the Diverse Currents in Hippocampal Neurons 
+An Artificial Neural Network for Spatio-Temporal Bipolar Patterns: Application to Phoneme Classification 
+Teaching Artificial Neural Systems to Drive: Manual Training Techniques for Autonomous Systems 
+Correlational Strength and Computational Algebra of Synaptic Connections Between Neurons 
+Discovering Structure from Motion in Monkey, Man and Machine 
+Static and Dynamic Error Propagation Networks with Application to Speech Coding 
+Schema for Motor Control Utilizing a Network Model of the Cerebellum 
+Distributed Neural Information Processing in the Vestibulo-Ocular System 
+Time-Sequential Self-Organization of Hierarchical Neural Networks 
+A Method for the Design of Stable Lateral Inhibition Networks that is Robust in the Presence of Circuit Parasitics 
+Constrained Differential Optimization 
+Encoding Geometric Invariances in Higher-Order Neural Networks 
+A Novel Net that Learns Sequential Decision Process 
+Mathematical Analysis of Learning Behavior of Neuronal Models 
+New Hardware for Massive Neural Networks 
+An Adaptive and Heterodyne Filtering Procedure for the Imaging of Moving Objects 
+Phase Transitions in Neural Networks 
+Using Neural Networks to Improve Cochlear Implant Speech Perception 
+Self-Organization of Associative Database and Its Applications 
+Temporal Patterns of Activity in Neural Networks 
+Network Generality, Training Required, and Precision Required 
+High Order Neural Networks for Efficient Associative Memory Design 
+The Capacity of the Kanerva Associative Memory is Exponential 
+The Sigmoid Nonlinearity in Prepyriform Cortex 
+Probabilistic Characterization of Neural Model Computations 
+Learning in Networks of Nondeterministic Adaptive Logic Elements 
+HIGH DENSITY ASSOCIATIVE MEMORIES 
+A Mean Field Theory of Layer IV of Visual Cortex and Its Application to Artificial Neural Networks 
+Neural Networks for Template Matching: Application to Real-Time Classification of the Action Potentials of Real Neurons 
+Capacity for Patterns and Sequences in Kanerva's SDM as Compared to Other Associative Memory Models 
+The Connectivity Analysis of Simple Association 
+Performance Measures for Associative Memories that Learn and Forget 
+Centric Models of the Orientation Map in Primary Visual Cortex 
+A Computer Simulation of Olfactory Cortex with Functional Implications for Storage and Retrieval of Olfactory Information 
+Towards an Organizing Principle for a Layered Perceptual Network 
+A Trellis-Structured Neural Network 
+Supervised Learning of Probability Distributions by Neural Networks 
+Stochastic Learning Networks and their Electronic Implementation 
+Connecting to the Past 
+PARTITIONING OF SENSORY DATA BY A CORTICAL NETWORK 
+A Dynamical Approach to Temporal Pattern Processing 
+Minkowski-r Back-Propagation: Learning in Connectionist Models with Non-Euclidian Error Signals 
+Analysis and Comparison of Different Learning Algorithms for Pattern Association Problems 

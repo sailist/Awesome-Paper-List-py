@@ -1,0 +1,143 @@
+Modeling Time Varying Systems Using Hidden Control Neural Architecture 
+Using Genetic Algorithms to Improve Pattern Classification Performance 
+Generalization Dynamics in LMS Trained Linear Networks 
+Optimal Filtering in the Salamander Retina 
+Oscillation Onset in Neural Delayed Feedback 
+Relaxation Networks for Large Supervised Learning Problems 
+Neural Networks Structured for Control Application to Aircraft Landing 
+Closed-Form Inversion of Backpropagation Networks: Theory and Optimization Issues 
+Dynamics of Generalization in Linear Perceptrons 
+Translating Locative Prepositions 
+Adaptive Spline Networks 
+An Analog VLSI Chip for Finding Edges from Zero-crossings 
+Comparison of three classification techniques: CART, C4.5 and Multi-Layer Perceptrons 
+ART2/BP architecture for adaptive estimation of dynamic processes 
+Self-organization of Hebbian Synapses in Hippocampal Neurons 
+Connection Topology and Dynamics in Lateral Inhibition Networks 
+A Delay-Line Based Motion Detection Chip 
+Back Propagation is Sensitive to Initial Conditions 
+Applications of Neural Networks in Video Signal Processing 
+Grouping Contours by Iterated Pairing Network 
+Simulation of the Neocognitron on a CCD Parallel Processing Architecture 
+Order Reduction for Dynamical Systems Describing the Behavior of Complex Neurons 
+Note on Learning Rate Schedules for Stochastic Optimization 
+Remarks on Interpolation and Recognition Using Neural Nets 
+Rapidly Adapting Artificial Neural Networks for Autonomous Navigation 
+A Recurrent Neural Network for Word Identification from Continuous Phoneme Strings 
+Adjoint-Functions and Temporal Learning Algorithms in Neural Networks 
+Language Induction by Phase Transition in Dynamical Recognizers 
+Chaitin-Kolmogorov Complexity and Generalization in Neural Networks 
+VLSI Implementations of Learning and Memory Systems: A Review 
+Neural Dynamics of Motion Segmentation and Grouping 
+Exploratory Feature Extraction in Speech Signals 
+Constructing Hidden Units using Examples and Queries 
+Analog Neural Networks as Decoders 
+A Reinforcement Learning Variant for Control Scheduling 
+Kohonen Networks and Clustering: Comparative Performance in Color Clustering 
+Reconfigurable Neural Net Chip with 32K Connections 
+e-Entropy and the Complexity of Feedforward Neural Networks 
+Extensions of a Theory of Networks for Approximation and Learning: Outliers and Negative Examples 
+Stochastic Neurodynamics 
+Phonetic Classification and Recognition Using the Multi-Layer Perceptron 
+Learning Trajectory and Force Control of an Artificial Muscle Arm by Parallel-hierarchical Neural Network Model 
+Basis-Function Trees as a Generalization of Local Variable Selection Methods for Function Approximation 
+A Short-Term Memory Architecture for the Learning of Morphophonemic Rules 
+Associative Memory in a Network of `Biological' Neurons 
+Oriented Non-Radial Basis Functions for Image Coding and Analysis 
+Evaluation of Adaptive Mixtures of Competing Experts 
+Spoken Letter Recognition 
+Design and Implementation of a High Speed CMAC Neural Network Using Programmable CMOS Logic Cell Arrays 
+Shaping the State Space Landscape in Recurrent Networks 
+EMPATH: Face, Emotion, and Gender Recognition Using Holons 
+Interaction Among Ocularity, Retinotopy and On-center/Off-center Pathways During Development 
+Phase-coupling in Two-Dimensional Networks of Interacting Oscillators 
+An Analog VLSI Splining Network 
+Designing Linear Threshold Based Neural Network Pattern Classifiers 
+Qualitative structure from motion 
+Learning to See Rotation and Dilation with a Hebb Rule 
+A Comparative Study of the Practical Characteristics of Neural Network and Conventional Pattern Classifiers 
+Real-time autonomous robot navigation using VLSI neural networks 
+CAM Storage of Analog Patterns and Continuous Sequences with 3N2 Weights 
+Generalization Properties of Radial Basis Functions 
+Learning Time-varying Concepts 
+A Theory for Neural Networks with Time Delays 
+Natural Dolphin Echo Recognition Using an Integrator Gateway Network 
+Compact EEPROM-based Weight Functions 
+Discovering Viewpoint-Invariant Relationships That Characterize Objects 
+Reinforcement Learning in Markovian and Non-Markovian Environments 
+Second Order Properties of Error Surfaces: Learning Time and Generalization 
+Connectionist Music Composition Based on Melodic and Stylistic Constraints 
+Transforming Neural-Net Output Levels to Probability Distributions 
+Can neural networks do better than the Vapnik-Chervonenkis bounds? 
+Discovering Discrete Distributed Representations with Iterative Competitive Learning 
+A Neural Expert System with Automated Extraction of Fuzzy If-Then Rules and Its Application to Medical Diagnosis 
+Leaning by Combining Memorization and Gradient Descent 
+A Neural Network Approach for Three-Dimensional Object Recognition 
+Distributed Recursive Structure Processing 
+Dynamics of Learning in Recurrent Feature-Discovery Networks 
+Navigating through Temporal Difference 
+On the Circuit Complexity of Neural Networks 
+An Attractor Neural Network Model of Recall and Recognition 
+Training Knowledge-Based Neural Networks to Recognize Genes in DNA Sequences 
+ALCOVE: A Connectionist Model of Human Category Learning 
+Multi-Layer Perceptrons with B-Spline Receptive Field Functions 
+Bumptrees for Efficient Function, Constraint and Classification Learning 
+Planning with an Adaptive World Model 
+Simple Spin Models for the Development of Ocular Dominance Columns and Iso-Orientation Patches 
+A Multiscale Adaptive Network Model of Motion Computation in Primates 
+Spherical Units as Dynamic Consequential Regions: Implications for Attention, Competition and Categorization 
+Speech Recognition Using Connectionist Approaches 
+Feedback Synapse to Cone and Light Adaptation 
+Direct memory access using two cues: Finding the intersection of sets in a connectionist model 
+Flight Control in the Dragonfly: A Neurobiological Simulation 
+A Framework for the Cooperation of Learning Algorithms 
+Continuous Speech Recognition by Linked Predictive Neural Networks 
+A B-P ANN Commodity Trader 
+Statistical Mechanics of Temporal Association in Neural Networks 
+Cholinergic Modulation May Enhance Cortical Associative Memory Function 
+Neural Network Application to Diagnostics and Control of Vehicle Control Systems 
+Evolution and Learning in Neural Networks: The Number and Distribution of Learning Trials Affect the Rate of Evolution 
+A Lagrangian Approach to Fixed Points 
+Neural Network Implementation of Admission Control 
+Computing with Arrays of Bell-Shaped and Sigmoid Functions 
+VLSI Implementation of TInMANN 
+SEXNET: A Neural Network Identifies Sex From Human Faces 
+From Speech Recognition to Spoken Language Understanding: The Development of the MIT SUMMIT and VOYAGER Systems 
+Generalization by Weight-Elimination with Application to Forecasting 
+A Novel Approach to Prediction of the 3-Dimensional Structures of Protein Backbones by Neural Networks 
+Back Propagation Implementation on the Adaptive Solutions CNAPS Neurocomputer Chip 
+Asymptotic slowing down of the nearest-neighbor classifier 
+Connectionist Approaches to the Use of Markov Models for Speech Recognition 
+A Second-Order Translation, Rotation and Scale Invariant Neural Network 
+Signal Processing by Multiplexing and Demultiplexing in Neurons 
+Lg Depth Estimation and Ripple Fire Characterization Using Artificial Neural Networks 
+Adaptive Range Coding 
+RecNorm: Simultaneous Normalisation and Classification applied to Speech Recognition 
+A four neuron circuit accounts for change sensitive inhibition in salamander retina 
+A Method for the Efficient Design of Boltzmann Machines for Classiffication Problems 
+How Receptive Field Parameters Affect Neural Learning 
+Proximity Effect Corrections in Electron Beam Lithography Using a Neural Network 
+Exploiting Syllable Structure in a Connectionist Phonology Model 
+Integrated Modeling and Control Based on Reinforcement Learning and Dynamic Programming 
+A Connectionist Learning Control Architecture for Navigation 
+On Stochastic Complexity and Admissible Models for Neural Network Classifiers 
+Analog Computation at a Critical Point: A Novel Function for Neuronal Oscillations? 
+Integrated Segmentation and Recognition of Hand-Printed Numerals 
+Speech Recognition Using Demi-Syllable Neural Prediction Model 
+A Recurrent Neural Network Model of Velocity Storage in the Vestibulo-Ocular Reflex 
+The Devil and the Network: What Sparsity Implies to Robustness and Memory 
+Development and Spatial Structure of Cortical Feature Maps: A Model Study 
+Connectionist Implementation of a Theory of Generalization 
+Discrete Affine Wavelet Transforms For Anaylsis And Synthesis Of Feedfoward Neural Networks 
+Convergence of a Neural Network Classifier 
+Optimal Sampling of Natural Images: A Design Principle for the Visual System 
+Time Trials on Second-Order and Variable-Learning-Rate Algorithms 
+A competitive modular connectionist architecture 
+A Model of Distributed Sensorimotor Control in the Cockroach Escape Turn 
+A VLSI Neural Network for Color Constancy 
+Stereopsis by a Neural Network Which Learns the Constraints 
+The Tempo 2 Algorithm: Adjusting Time-Delays By Supervised Learning 
+Learning Theory and Experiments with Competitive Networks 
+Further Studies of a Model for the Development and Regeneration of Eye-Brain Maps 
+The Recurrent Cascade-Correlation Architecture 
+Sequential Adaptation of Radial Basis Function Neural Networks and its Application to Time-series Prediction 

@@ -1,0 +1,198 @@
+Decoding V1 Neuronal Activity using Particle Filtering with Volterra Kernels 
+Linear Response for Approximate Inference 
+Wormholes Improve Contrastive Divergence 
+Probability Estimates for Multi-Class Classification by Pairwise Coupling 
+Information Dynamics and Emergent Computation in Recurrent Circuits of Spiking Neurons 
+Mutual Boosting for Contextual Inference 
+On the Dynamics of Boosting 
+Distributed Optimization in Adaptive Networks 
+Statistical Debugging of Sampled Programs 
+A Kullback-Leibler Divergence Based Kernel for SVM Classification in Multimedia Applications 
+A Model for Learning the Semantics of Pictures 
+The Diffusion-Limited Biochemical Signal-Relay Channel 
+Margin Maximizing Loss Functions 
+Inferring State Sequences for Non-linear Systems with Embedded Hidden Markov Models 
+Self-calibrating Probability Forecasting 
+Synchrony Detection by Analogue VLSI Neurons with Bimodal STDP Synapses 
+Semi-supervised Protein Classification Using Cluster Kernels 
+When Does Non-Negative Matrix Factorization Give a Correct Decomposition into Parts? 
+A Biologically Plausible Algorithm for Reinforcement-shaped Representational Learning 
+Online Classification on a Budget 
+Pairwise Clustering and Graphical Models 
+Link Prediction in Relational Data 
+Human and Ideal Observers for Detecting Image Curves 
+Linear Program Approximations for Factored Continuous-State Markov Decision Processes 
+Perception of the Structure of the Physical World Using Unknown Multimodal Sensors and Effectors 
+Log-Linear Models for Label Ranking 
+Learning the k in k-means 
+Learning a Rare Event Detection Cascade by Direct Feature Selection 
+Non-linear CCA and PCA by Alignment of Local Models 
+Unsupervised Context Sensitive Language Acquisition from a Large Corpus 
+Modeling User Rating Profiles For Collaborative Filtering 
+Learning a World Model and Planning with a Self-Organizing, Dynamic Neural System 
+Bias-Corrected Bootstrap and Model Uncertainty 
+Nonlinear Processing in LGN Neurons 
+Ranking on Data Manifolds 
+Approximate Analytical Bootstrap Averages for Support Vector Classifiers 
+An Infinity-sample Theory for Multi-category Large Margin Classification 
+A Neuromorphic Multi-chip Model of a Disparity Selective Complex Cell 
+Robustness in Markov Decision Problems with Uncertain Transition Matrices 
+Parameterized Novelty Detectors for Environmental Sensor Monitoring 
+Sensory Modality Segregation 
+Nonstationary Covariance Functions for Gaussian Process Regression 
+Algorithms for Interdependent Security Games 
+How to Combine Expert (and Novice) Advice when Actions Impact the Environment? 
+Reasoning about Time and Knowledge in Neural Symbolic Learning Systems 
+Policy Search by Dynamic Programming 
+A Holistic Approach to Compositional Semantics: a connectionist model and robot experiments 
+Semidefinite Relaxations for Approximate Inference on Graphs with Cycles 
+Discriminating Deformable Shape Classes 
+Limiting Form of the Sample Covariance Eigenspectrum in PCA and Kernel PCA 
+Auction Mechanism Design for Multi-Robot Coordination 
+Geometric Analysis of Constrained Curves 
+A Low-Power Analog VLSI Visual Collision Detector 
+An Improved Scheme for Detection and Labelling in Johansson Displays 
+1-norm Support Vector Machines 
+Envelope-based Planning in Relational MDPs 
+Necessary Intransitive Likelihood-Ratio Classifiers 
+Simplicial Mixtures of Markov Chains: Distributed Modelling of Dynamic User Profiles 
+Bounded Finite State Controllers 
+Sparseness of Support Vector Machines---Some Asymptotically Sharp Bounds 
+Towards Social Robots: Automatic Evaluation of Human-Robot Interaction by Facial Expression Classification 
+Entrainment of Silicon Central Pattern Generators for Legged Locomotory Control 
+Fast Embedding of Sparse Similarity Graphs 
+Online Passive-Aggressive Algorithms 
+Training a Quantum Neural Network 
+Perspectives on Sparse Bayesian Learning 
+One Microphone Blind Dereverberation Based on Quasi-periodicity of Speech Signals 
+Multiple Instance Learning via Disjunctive Programming Boosting 
+An Autonomous Robotic System for Mapping Abandoned Mines 
+Model Uncertainty in Classical Conditioning 
+Local Phase Coherence and the Perception of Blur 
+New Algorithms for Efficient High Dimensional Non-parametric Classification 
+Large Margin Classifiers: Convex Loss, Low Noise, and Convergence Rates 
+Design of Experiments via Information Theory 
+Minimax Embeddings 
+Efficient and Robust Feature Extraction by Maximum Margin Criterion 
+Training fMRI Classifiers to Detect Cognitive States across Multiple Human Subjects 
+Applying Metric-Trees to Belief-Point POMDPs 
+Nonlinear Filtering of Electron Micrographs by Means of Support Vector Regression 
+Application of SVMs for Colour Classification and Collision Detection with AIBO Robots 
+Warped Gaussian Processes 
+Online Learning via Global Feedback for Phrase Recognition 
+Iterative Scaled Trust-Region Learning in Krylov Subspaces via Pearlmutter's Implicit Sparse Hessian 
+AUC Optimization vs. Error Rate Minimization 
+Semi-Supervised Learning with Trees 
+Finding the M Most Probable Configurations using Loopy Belief Propagation 
+A Nonlinear Predictive State Representation 
+A Recurrent Model of Orientation Maps with Simple and Complex Cells 
+Predicting Speech Intelligibility from a Population of Neurons 
+Different Cortico-Basal Ganglia Loops Specialize in Reward Prediction at Different Time Scales 
+Measure Based Regularization 
+Geometric Clustering Using the Information Bottleneck Method 
+Sample Propagation 
+Gaussian Processes in Reinforcement Learning 
+The Doubly Balanced Network of Spiking Neurons: A Memory Model with High Capacity 
+Hierarchical Topic Models and the Nested Chinese Restaurant Process 
+A Sampled Texture Prior for Image Super-Resolution 
+Analytical Solution of Spike-timing Dependent Plasticity Based on Synaptic Biophysics 
+Sparse Greedy Minimax Probability Machine Classification 
+Approximate Policy Iteration with a Policy Language Bias 
+Information Bottleneck for Gaussian Variables 
+Laplace Propagation 
+Error Bounds for Transductive Learning via Compression and Clustering 
+Approximate Expectation Maximization 
+A Fast Multi-Resolution Method for Detection of Significant Spatial Disease Clusters 
+Computing Gaussian Mixture Models with EM Using Equivalence Constraints 
+Convex Methods for Transduction 
+Kernel Dimensionality Reduction for Supervised Learning 
+Learning with Local and Global Consistency 
+Max-Margin Markov Networks 
+Factorization with Uncertainty and Missing Data: Exploiting Temporal Coherence 
+Sequential Bayesian Kernel Regression 
+PAC-Bayesian Generic Chaining 
+Ambiguous Model Learning Made Unambiguous with 1/f Priors 
+Generalised Propagation for Fast Fourier Transforms with Partial or Missing Data 
+Can We Learn to Beat the Best Stock 
+An MCMC-Based Method of Comparing Connectionist Models in Cognitive Science 
+Dynamical Modeling with Kernels for Nonlinear Time Series Prediction 
+Learning Non-Rigid 3D Shape from 2D Motion 
+Discriminative Fields for Modeling Spatial Dependencies in Natural Images 
+Fast Algorithms for Large-State-Space HMMs with Applications to Web Usage Analysis 
+A Probabilistic Model of Auditory Space Representation in the Barn Owl 
+Gaussian Process Latent Variable Models for Visualisation of High Dimensional Data 
+Tree-structured Approximations by Expectation Propagation 
+Boosting versus Covering 
+Learning Near-Pareto-Optimal Conventions in Polynomial Time 
+Using the Forest to See the Trees: A Graphical Model Relating Features, Objects, and Scenes 
+Approximability of Probability Distributions 
+Gene Expression Clustering with Functional Mixture Models 
+Large Scale Online Learning 
+Plasticity Kernels and Temporal Statistics 
+Phonetic Speaker Recognition with Support Vector Machines 
+Information Maximization in Noisy Channels : A Variational Approach 
+Variational Linear Response 
+Circuit Optimization Predicts Dynamic Networks for Chemosensory Orientation in Nematode C. elegans 
+Learning to Find Pre-Images 
+Sparse Representation and Its Applications in Blind Source Separation 
+Probabilistic Inference in Human Sensorimotor Processing 
+From Algorithmic to Subjective Randomness 
+Eye Micro-movements Improve Stimulus Detection Beyond the Nyquist Limit in the Peripheral Retina 
+Mechanism of Neural Interference by Transcranial Magnetic Stimulation: Network or Single Neuron? 
+Efficient Multiscale Sampling from Products of Gaussian Mixtures 
+Markov Models for Automated ECG Interval Analysis 
+A Mixed-Signal VLSI for Real-Time Generation of Edge-Based Image Vectors 
+Autonomous Helicopter Flight via Reinforcement Learning 
+Insights from Machine Learning Applied to Human Visual Classification 
+Classification with Hybrid Generative/Discriminative Models 
+Fast Feature Selection from Microarray Expression Data via Multiplicative Large Margin Algorithms 
+Feature Selection in Clustering Problems 
+Optimal Manifold Representation of Data: An Information Theoretic Approach 
+Invariant Pattern Recognition by Semi-Definite Programming Machines 
+Impact of an Energy Normalization Transform on the Performance of the LF-ASD Brain Computer Interface 
+Subject-Independent Magnetoencephalographic Source Localization by a Multilayer Perceptron 
+Image Reconstruction by Linear Programming 
+Extreme Components Analysis 
+Bayesian Color Constancy with Non-Gaussian Models 
+All learning is Local: Multi-agent Learning in Global Reward Games 
+Automatic Annotation of Everyday Movements 
+A Classification-based Cocktail-party Processor 
+Linear Dependent Dimensionality Reduction 
+Clustering with the Connectivity Kernel 
+Attractive People: Assembling Loose-Limbed Models using Non-parametric Belief Propagation 
+Out-of-Sample Extensions for LLE, Isomap, MDS, Eigenmaps, and Spectral Clustering 
+Learning Spectral Clustering 
+Maximum Likelihood Estimation of a Stochastic Integrate-and-Fire Neural Model 
+Prediction on Spike Data Using Kernel Algorithms 
+An MDP-Based Approach to Online Mechanism Design 
+Probabilistic Inference of Speech Signals from Phaseless Spectrograms 
+Denoising and Untangling Graphs Using Degree Priors 
+Learning a Distance Metric from Relative Comparisons 
+Locality Preserving Projections 
+Unsupervised Color Decomposition Of Histologically Stained Tissue Samples 
+Minimising Contrastive Divergence in Noisy, Mixed-mode VLSI Neurons 
+Eye Movements for Reward Maximization 
+Estimating Internal Variables and Paramters of a Learning Agent by a Particle Filter 
+ICA-based Clustering of Genes from Microarray Expression Data 
+On the Concentration of Expectation and Approximate Inference in Layered Networks 
+Identifying Structure across Pre-partitioned Data 
+Eigenvoice Speaker Adaptation via Composite Kernel Principal Component Analysis 
+A Summating, Exponentially-Decaying CMOS Synapse for Spiking Neural Systems 
+Extending Q-Learning to General Adaptive Multi-Agent Systems 
+No Unbiased Estimator of the Variance of K-Fold Cross-Validation 
+GPPS: A Gaussian Process Positioning System for Cellular Networks 
+Reconstructing MEG Sources with Unknown Correlations 
+Increase Information Transfer Rates in BCI by CSP Extension to Multi-class 
+Dopamine Modulation in a Basal Ganglio-Cortical Network of Working Memory 
+Approximate Planning in POMDPs with Macro-Actions 
+ARA*: Anytime A* with Provable Bounds on Sub-Optimality 
+Salient Boundary Detection using Ratio Contour 
+Semi-Definite Programming by Perceptron Learning 
+An Iterative Improvement Procedure for Hierarchical Clustering 
+Kernels for Structured Natural Language Data 
+Near-Minimax Optimal Classification with Dyadic Classification Trees 
+Bounded Invariance and the Formation of Place Fields 
+Learning Curves for Stochastic Gradient Descent in Linear Feedforward Networks 
+Learning Bounds for a Generalized Family of Bayesian Posterior Distributions 
+A Functional Architecture for Motion Pattern Processing in MSTd 
+Online Learning of Non-stationary Sequences 

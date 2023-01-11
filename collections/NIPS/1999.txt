@@ -1,0 +1,150 @@
+Regular and Irregular Gallager-zype Error-Correcting Codes 
+An MEG Study of Response Latency and Variability in the Human Visual System During a Visual-Motor Integration Task 
+The Entropy Regularization Information Criterion 
+Invariant Feature Extraction and Classification in Kernel Spaces 
+Correctness of Belief Propagation in Gaussian Graphical Models of Arbitrary Topology 
+Population Decoding Based on an Unfaithful Model 
+Broadband Direction-Of-Arrival Estimation Based on Second Order Statistics 
+Emergence of Topography and Complex Cell Properties from Natural Images using Extensions of ICA 
+Reinforcement Learning Using Approximate Belief States 
+Building Predictive Models from Fractal Representations of Symbolic Sequences 
+Neural Computation with Winner-Take-All as the Only Nonlinear Operation 
+Support Vector Method for Multivariate Density Estimation 
+Leveraged Vector Machines 
+Learning Factored Representations for Partially Observable Markov Decision Processes 
+Variational Inference for Bayesian Mixtures of Factor Analysers 
+Topographic Transformation as a Discrete Latent Variable 
+Channel Noise in Excitable Neural Membranes 
+Efficient Approaches to Gaussian Process Classification 
+Optimal Sizes of Dendritic and Axonal Arbors 
+v-Arc: Ensemble Learning in the Presence of Outliers 
+Monte Carlo POMDPs 
+A Recurrent Model of the Interaction Between Prefrontal and Inferotemporal Cortex in Delay Tasks 
+Information Factorization in Connectionist Models of Perception 
+Hierarchical Image Probability (H1P) Models 
+Reinforcement Learning for Spoken Dialogue Systems 
+Distributed Synchrony of Spiking Neurons in a Hebbian Cell Assembly 
+Image Representations for Facial Expression Coding 
+Algorithms for Independent Components Analysis and Higher Order Statistics 
+A SNoW-Based Face Detector 
+A Winner-Take-All Circuit with Controllable Soft Max Property 
+Bayesian Model Selection for Support Vector Machines, Gaussian Processes and Other Kernel Classifiers 
+Kirchoff Law Markov Fields for Analog Circuit Design 
+Can VI Mechanisms Account for Figure-Ground and Medial Axis Effects? 
+Policy Gradient Methods for Reinforcement Learning with Function Approximation 
+Lower Bounds on the Complexity of Approximating Continuous Functions by Sigmoidal Neural Networks 
+Evolving Learnable Languages 
+Large Margin DAGs for Multiclass Classification 
+Approximate Planning in Large POMDPs via Reusable Trajectories 
+Maximum Entropy Discrimination 
+The Relaxed Online Maximum Margin Algorithm 
+Bayesian Modelling of fMRI lime Series 
+Bayesian Averaging is Well-Temperated 
+Policy Search via Density Estimation 
+Low Power Wireless Communication via Reinforcement Learning 
+Learning to Parse Images 
+Robust Recognition of Noisy and Superimposed Patterns via Selective Attention 
+Bayesian Network Induction via Local Neighborhoods 
+Spiking Boltzmann Machines 
+Actor-Critic Algorithms 
+Training Data Selection for Optimal Generalization in Trigonometric Polynomial Networks 
+Image Recognition in Context: Application to Microscopic Urinalysis 
+Bayesian Map Learning in Dynamic Environments 
+Better Generative Models for Sequential Data Problems: Bidirectional Recurrent Mixture Density Networks 
+Statistical Dynamics of Batch Learning 
+Scale Mixtures of Gaussians and the Statistics of Natural Images 
+Independent Factor Analysis with Temporally Structured Sources 
+Managing Uncertainty in Cue Combination 
+Potential Boosters? 
+Resonance in a Stochastic Neuron Model with Delayed Interaction 
+Wiring Optimization in the Brain 
+Learning from User Feedback in Image Retrieval Systems 
+Online Independent Component Analysis with Local Learning Rate Adaptation 
+A Variational Baysian Framework for Graphical Models 
+Algebraic Analysis for Non-regular Learning Machines 
+Model Selection in Clustering by Uniform Convergence Bounds 
+Unmixing Hyperspectral Data 
+Some Theoretical Results Concerning the Convergence of Compositions of Regularized Linear Functions 
+Inference for the Generalization Error 
+LTD Facilitates Learning in a Noisy Environment 
+An Oculo-Motor System with Multi-Chip Neuromorphic Analog VLSI Control 
+Understanding Stepwise Generalization of Support Vector Machines: a Toy Model 
+A Geometric Interpretation of v-SVM Classifiers 
+Robust Learning of Chaotic Attractors 
+Greedy Importance Sampling 
+Recurrent Cortical Competition: Strengthen or Weaken? 
+Constrained Hidden Markov Models 
+Approximate Inference A lgorithms for Two-Layer Bayesian Networks 
+Perceptual Organization Based on Temporal Dynamics 
+Learning Informative Statistics: A Nonparametnic Approach 
+Rules and Similarity in Concept Learning 
+Support Vector Method for Novelty Detection 
+Generalized Model Selection for Unsupervised Learning in High Dimensions 
+An Improved Decomposition Algorithm for Regression Support Vector Machines 
+An Analog VLSI Model of Periodicity Extraction 
+From Coexpression to Coregulation: An Approach to Inferring Transcriptional Regulation among Gene Classes from Large-Scale Expression Data 
+Data Visualization and Feature Selection: New Algorithms for Nongaussian Data 
+An Information-Theoretic Framework for Understanding Saccadic Eye Movements 
+Noisy Neural Networks and Generalizations 
+The Nonnegative Boltzmann Machine 
+Boosting Algorithms as Gradient Descent 
+Local Probability Propagation for Factor Analysis 
+A MCMC Approach to Hierarchical Mixture Modelling 
+The Infinite Gaussian Mixture Model 
+Reconstruction of Sequential Data with Probabilistic Models and Continuity Constraints 
+Learning the Similarity of Documents: An Information-Geometric Approach to Document Retrieval and Categorization 
+Bayesian Reconstruction of 3D Human Motion from Single-Camera Video 
+Mixture Density Estimation 
+Information Capacity and Robustness of Stochastic Neuron Models 
+Bayesian Transduction 
+Constructing Heterogeneous Committees Using Input Feature Grouping: Application to Economic Forecasting 
+An Analysis of Turbo Decoding with Gaussian Densities 
+Probabilistic Methods for Support Vector Machines 
+Neural System Model of Human Sound Localization 
+A Neuromorphic VLSI System for Modeling the Neural Control of Axial Locomotion 
+Graded Grammaticality in Prediction Fractal Machines 
+Learning Sparse Codes with a Mixture-of-Gaussians Prior 
+Semiparametric Approach to Multichannel Blind Deconvolution of Nonminimum Phase Systems 
+Application of Blind Separation of Sources to Optical Recording of Brain Activity 
+Spectral Cues in Human Sound Localization 
+Robust Full Bayesian Methods for Neural Networks 
+A Neurodynamical Approach to Visual Attention 
+Dynamics of Supervised Learning with Restricted Training Sets and Noisy Teachers 
+Audio Vision: Using Audio-Visual Synchrony to Locate Sounds 
+Predictive Sequence Learning in Recurrent Neocortical Circuits 
+Differentiating Functions of the Jacobian with Respect to the Weights 
+Effects of Spatial and Temporal Contiguity on the Acquisition of Spatial Information 
+Agglomerative Information Bottleneck 
+Spike-based Learning Rules and Stabilization of Persistent Neural Activity 
+Nonlinear Discriminant Analysis Using Kernel Functions 
+On Input Selection with Reversible Jump Markov Chain Monte Carlo Sampling 
+Uniqueness of the SVM Solution 
+The Parallel Problems Server: an Interactive Tool for Large Scale Machine Learning 
+Search for Information Bearing Components in Speech 
+An Oscillatory Correlation Frame work for Computational Auditory Scene Analysis 
+Manifold Stochastic Dynamics for Bayesian Learning 
+Bifurcation Analysis of a Silicon Neuron 
+Speech Modelling Using Subspace and EM Techniques 
+Optimal Kernel Shapes for Local Linear Regression 
+Robust Neural Network Regression for Offline and Online Learning 
+Neural Network Based Model Predictive Control 
+Coastal Navigation with Mobile Robots 
+Boosting with Multi-Way Branching in Decision Trees 
+Neural Representation of Multi-Dimensional Stimuli 
+Model Selection for Support Vector Machines 
+Memory Capacity of Linear vs. Nonlinear Models of Dendritic Integration 
+State Abstraction in MAXQ Hierarchical Reinforcement Learning 
+Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks 
+A Generative Model for Attractor Dynamics 
+An Environment Model for Nonstationary Reinforcement Learning 
+Predictive App roaches for Choosing Hyperparameters in Gaussian Processes 
+Acquisition in Autoshaping 
+Transductive Inference for Estimating Values of Functions 
+Effective Learning Requires Neuronal Remodeling of Hebbian Synapses 
+The Relevance Vector Machine 
+Dual Estimation and the Unscented Transformation 
+Learning Statistically Neutral Tasks without Expert Guidance 
+Gaussian Fields for Approximate Inference in Layered Sigmoid Belief Networks 
+A Multi-class Linear Learning Algorithm Related to Winnow 
+Churn Reduction in the Wireless Industry 
+Recognizing Evoked Potentials in a Virtual Environment 
