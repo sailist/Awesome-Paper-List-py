@@ -1,0 +1,434 @@
+<section class="main-content ng-scope show-sortable" ng-if="!main.hasError"
+    ng-class="{'show-sortable': main.settings.tableParams.sortable}">
+    <div footable="" class="direction-right" style="height: 100%; width:100%; display: block"
+        data-settings="main.settings" data-instance-id="main.instanceId" data-comp-id="main.compId"
+        data-fixed-height="main.isFixedHeight()" data-filter-position="main.getFilterPosition()">
+        <!-- ngIf: fixedHeight -->
+        <!-- ngIf: !fixedHeight -->
+        <div class="adjust-height-view ng-scope" adjust-height-view="" ng-if="!fixedHeight">
+            <section style="width:100%;" ng-show="settings.tableParams.showHeaderFooter &amp;&amp; !isEmptyTable">
+                <table id="filterTable" class="filter outerBorder" style="width:100%;" ng-class="{'mobile':isMobile}">
+                    <thead>
+                        <tr>
+                            <th colspan="100%">
+                                <div id="filterBox" ng-show="settings.tableParams.filter"
+                                    class="footable-filtering-external footable-filtering-right">
+                                    <form class="form-inline">
+                                        <div class="form-group1 footable-filtering-search">
+                                            <div class="input-group"><input type="text" class="form-control"
+                                                    placeholder="Search"></div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </th>
+                        </tr>
+                    </thead>
+                </table>
+            </section>
+            <div id="tableWrapper">
+                <table id="theTable" style="width: 100%; display: table;" dir="auto" data-paging="false"
+                    data-cascade="true" data-filter-min="3" data-paging-size="5" data-useparentwidth="true"
+                    data-filter-container="#filterBox" data-filter-connectors="false" data-use-parent-width="false"
+                    data-sorting="true" data-filtering="true" data-filter-filters="[]" data-filter-placeholder="Search"
+                    data-filter-position="right" data-show-header="true" ng-class="{'empty-table':isEmptyTable}"
+                    class="footable table outerBorder footable-1 footable-filtering footable-filtering-right breakpoint-small">
+                    <thead>
+                        <tr class="footable-header">
+                            <th class="wixColumns footable-sortable footable-first-visible"
+                                style="display: table-cell;">Title<span
+                                    class="fooicon fooicon-sort"><!--?xml version="1.0" encoding="UTF-8"?-->
+                                    <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <g id="09-Icons-/-Sort-/-General" stroke="none" stroke-width="1" fill="none"
+                                            fill-rule="evenodd">
+                                            <path class="sortIcon"
+                                                d="M8.5,4 L8.499,18.222 L11.3744945,15.6 L12,16.3614292 L8.0075336,20 L4,16.3620683 L4.62006266,15.6 L7.499,18.214 L7.5,4 L8.5,4 Z"
+                                                id="🎨-Color" fill="#000000"
+                                                transform="translate(8.000000, 12.000000) rotate(180.000000) translate(-8.000000, -12.000000) ">
+                                            </path>
+                                            <path class="sortIcon"
+                                                d="M16.5,4 L16.499,18.222 L19.3744945,15.6 L20,16.3614292 L16.0075336,20 L12,16.3620683 L12.6200627,15.6 L15.499,18.214 L15.5,4 L16.5,4 Z"
+                                                id="🎨-Color" fill="#000000"></path>
+                                        </g>
+                                    </svg></span></th>
+                            <th class="wixColumns footable-sortable footable-last-visible" style="display: table-cell;">
+                                Authors<span class="fooicon fooicon-sort"><!--?xml version="1.0" encoding="UTF-8"?-->
+                                    <svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1"
+                                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <g id="09-Icons-/-Sort-/-General" stroke="none" stroke-width="1" fill="none"
+                                            fill-rule="evenodd">
+                                            <path class="sortIcon"
+                                                d="M8.5,4 L8.499,18.222 L11.3744945,15.6 L12,16.3614292 L8.0075336,20 L4,16.3620683 L4.62006266,15.6 L7.499,18.214 L7.5,4 L8.5,4 Z"
+                                                id="🎨-Color" fill="#000000"
+                                                transform="translate(8.000000, 12.000000) rotate(180.000000) translate(-8.000000, -12.000000) ">
+                                            </path>
+                                            <path class="sortIcon"
+                                                d="M16.5,4 L16.499,18.222 L19.3744945,15.6 L20,16.3614292 L16.0075336,20 L12,16.3620683 L12.6200627,15.6 L15.499,18.214 L15.5,4 L16.5,4 Z"
+                                                id="🎨-Color" fill="#000000"></path>
+                                        </g>
+                                    </svg></span></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">A Feasibility
+                                Study of Answer-Unaware Question Generation for Education&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Liam Dugan, Eleni
+                                Miltsakaki, Shriyash Kaustubh Upadhyay, Etan Ginsberg, Hannah Gonzalez, DaHyeon Choi,
+                                Chuning Yuan, Chris Callison-Burch&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">A Simple yet
+                                Effective Relation Information Guided Approach for Few-Shot Relation Extraction&nbsp;
+                            </td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Yang Liu, Jinpeng
+                                Hu, Xiang Wan, Tsung-Hui Chang&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Addressing
+                                Resource and Privacy Constraints in Semantic Parsing Through Data Augmentation&nbsp;
+                            </td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Kevin Yang, Olivia
+                                Deng, Charles Chen, Richard Shin, Subhro Roy, Benjamin Van Durme&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">An Isotropy
+                                Analysis in the Multilingual BERT Embedding Space&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Sara Rajaee,
+                                Mohammad Taher Pilehvar&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Attention
+                                Mechanism with Energy-Friendly Operations&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Yu Wan, Baosong
+                                Yang, Dayiheng Liu, Rong Xiao, Derek F. Wong, Haibo Zhang, Boxing Chen, Lidia S.
+                                Chao&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Automatic Speech
+                                Recognition and Query By Example for Creole Languages Documentation&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Cécile Macaire,
+                                Didier Schwab, Benjamin Lecouteux, Emmanuel Schang&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Auxiliary tasks
+                                to boost Biaffine Semantic Dependency Parsing&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Marie
+                                Candito&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Benchmarking
+                                Answer Verification Methods for Question Answering-Based Summarization Evaluation
+                                Metrics&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Daniel Deutsch,
+                                Dan Roth&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">BPE vs.
+                                Morphological Segmentation: A Case Study on Machine Translation of Four Polysynthetic
+                                Languages&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Manuel Mager,
+                                Arturo Oncevay, Elisabeth Mager, Katharina Kann, Thang Vu&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Combining
+                                (Second-Order) Graph-Based and Headed-Span-Based Projective Dependency Parsing&nbsp;
+                            </td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Songlin Yang,
+                                Kewei Tu&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Combining Static
+                                and Contextualised Multilingual Embeddings&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Katharina Hämmerl,
+                                Jindřich Libovický, Alexander Fraser&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Compressing
+                                Sentence Representation for Semantic Retrieval via Homomorphic Projective
+                                Distillation&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Xuandong Zhao,
+                                Zhiguo Yu, Ming Wu, Lei Li&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Debiasing Event
+                                Understanding for Visual Commonsense Tasks&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Minji Seo,
+                                YeonJoon Jung, Seungtaek Choi, seung-won hwang, Bei Liu&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Does BERT really
+                                agree ? Fine-grained Analysis of Lexical Dependence on a Syntactic Task&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Karim Lasri,
+                                Alessandro Lenci, Thierry Poibeau&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Domain
+                                Generalisation of NMT: Fusing Adapters with Leave-One-Domain-Out Training&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Thuy-Trang Vu,
+                                Shahram Khadivi, Dinh Phung, Gholamreza Haffari&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Dual
+                                Context-Guided Continuous Prompt Tuning for Few-Shot Learning&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Jie Zhou, Le Tian,
+                                Houjin Yu, Zhou Xiao, Hui Su, Jie Zhou&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Dynamically
+                                Refined Regularization for Improving Cross-corpora Hate Speech Detection&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Tulika Bose,
+                                Nikolaos Aletras, Irina Illina, Dominique Fohr&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">EICO: Improving
+                                Few-Shot Text Classification via Explicit and Implicit Consistency Regularization&nbsp;
+                            </td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Lei Zhao, cheng
+                                yao&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Factual
+                                Consistency of Multilingual Pretrained Language Models&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Constanza Fierro,
+                                Anders Søgaard&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">First the Worst:
+                                Finding Better Gender Translations During Beam Search&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Danielle Saunders,
+                                Rosie Sallis, Bill Byrne&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Hierarchical
+                                Inductive Transfer for Continual Dialogue Learning&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Shaoxiong Feng,
+                                Xuancheng Ren, Kan Li, Xu Sun&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Improving
+                                Zero-Shot Cross-lingual Transfer Between Closely Related Languages by Injecting
+                                Character-Level Noise&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Noëmi Aepli, Rico
+                                Sennrich&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Incremental
+                                Intent Detection for Medical Domain with Contrast Replay Networks&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Guirong Bai,
+                                Shizhu He, Kang Liu, Jun Zhao&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Investigating
+                                Data Variance in Evaluations of Automatic Machine Translation Metrics&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Jiannan Xiang,
+                                Huayang Li, Yahui Liu, Lemao Liu, Guoping Huang, Defu Lian, Shuming Shi&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Investigating
+                                Selective Prediction Approaches Across Several Tasks in IID, OOD, and Adversarial
+                                Settings&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Neeraj Varshney,
+                                Swaroop Mishra, Chitta Baral&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Is Whole Word
+                                Masking Always Better for Chinese BERT?: Probing on Chinese Grammatical Error
+                                Correction&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Yong Dai, Linyang
+                                Li, Cong Zhou, Zhangyin Feng, Enbo Zhao, Xipeng Qiu, Piji Li, Duyu Tang&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Leveraging Expert
+                                Guided Adversarial Augmentation For Improving Generalization in Named Entity
+                                Recognition&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Aaron Reich, Jiaao
+                                Chen, Aastha Agrawal, Yanzhe Zhang, Diyi Yang&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Mitigating
+                                Contradictions in Dialogue Based on Contrastive Learning&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Weizhao Li,
+                                Junsheng Kong, Ben Liao, Yi Cai&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Modular and
+                                Parameter-Efficient Multimodal Fusion with Prompting&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Sheng Liang,
+                                Mengjie Zhao, Hinrich Schuetze&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">MR-P: A Parallel
+                                Decoding Algorithm for Iterative Refinement Non-Autoregressive Translation&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Hao Cheng, Zhihua
+                                Zhang&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">MTRec: Multi-Task
+                                Learning over BERT for News Recommendation&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Qiwei Bi, Jian Li,
+                                Lifeng Shang, Xin Jiang, Qun Liu, Hanfang Yang&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">On Length
+                                Divergence Bias in Textual Matching Models&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Lan Jiang, Tianshu
+                                Lyu, Yankai Lin, Meng Chong, Xiaoyong Lyu, Dawei Yin&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Pre-Trained
+                                Multilingual Sequence-to-Sequence Models: A Hope for Low-Resource Language
+                                Translation?&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">En-Shiun Annie
+                                Lee, Sarubi Thillainathan, Shravan Nayak, Surangika Ranathunga, David Ifeoluwa Adelani,
+                                Ruisi Su, Arya D. McCarthy&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Prompt Tuning for
+                                Discriminative Pre-trained Language Models&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Yuan Yao, Bowen
+                                Dong, Ao Zhang, Zhengyan Zhang, Ruobing Xie, Zhiyuan Liu, Leyu Lin, Maosong Sun,
+                                Jianyong Wang&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Read Top News
+                                First: A Document Reordering Approach for Multi-Document News Summarization&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Chao Zhao, Tenghao
+                                Huang, Somnath Basu Roy Chowdhury, Muthu Kumar Chandrasekaran, Kathleen McKeown, Snigdha
+                                Chaturvedi&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Relevant
+                                CommonSense Subgraphs for What if... Procedural Reasoning&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Chen Zheng, Parisa
+                                Kordjamshidi&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Revisiting the
+                                Effects of Leakage on Dependency Parsing&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Nathaniel Krasner,
+                                Miriam Wanner, Antonios Anastasopoulos&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Revisiting
+                                Uncertainty-based Query Strategies for Active Learning with Transformers&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Christopher
+                                Schröder, Andreas Niekler, Martin Potthast&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Richer Countries
+                                and Richer Representations&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Kaitlyn Zhou,
+                                Kawin Ethayarajh, Dan Jurafsky&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">RuCCoN: Clinical
+                                Concept Normalization in Russian&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Alexandr Nesterov,
+                                Galina Zubkova, Zulfat Miftahutdinov, Vladimir Kokh, Elena Tutubalina, Artem Shelmanov,
+                                Anton M. Alekseev, Manvel Avetisian, Andrey Chertok, Sergey Nikolenko&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">S^2SQL: Injecting
+                                Syntax to Question-Schema Interaction Graph Encoder for Text-to-SQL Parsers&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Binyuan Hui,
+                                Ruiying Geng, Lihan Wang, Bowen Qin, Yanyang Li, Bowen Li, Jian SUN, Yongbin Li&nbsp;
+                            </td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Selecting
+                                Stickers in Open-Domain Dialogue through Multitask Learning&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Zhexin Zhang,
+                                Yeshuang Zhu, Zhengcong Fei, Jinchao Zhang, Jie Zhou&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Single Model
+                                Ensemble for Subword Regularized Models in Low-Resource Machine Translation&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Sho Takase,
+                                Tatsuya Hiraoka, Naoaki Okazaki&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Striking a
+                                Balance: Alleviating Inconsistency in Pre-trained Models for Symmetric Classification
+                                Tasks&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Ashutosh Kumar,
+                                Aditya Joshi&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">SyMCoM -
+                                Syntactic Measure of Code Mixing A Study Of English-Hindi Code-Mixing&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Prashant Kodali,
+                                Anmol Goel, Monojit Choudhury, Manish Shrivastava, Ponnurangam Kumaraguru&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Towards
+                                Responsible Natural Language Annotation for the Varieties of Arabic&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">A. Stevie Bergman,
+                                Mona T. Diab&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Transfer Learning
+                                and Prediction Consistency for Detecting Offensive Spans of Text&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Amir Pouran Ben
+                                Veyseh, Ning Xu, Quan Hung Tran, Varun Manjunatha, Franck Dernoncourt, Thien Huu
+                                Nguyen&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Two Birds with
+                                One Stone: Unified Model Learning for Both Recall and Ranking in News
+                                Recommendation&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Chuhan Wu,
+                                Fangzhao Wu, Tao Qi, Yongfeng Huang&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Two-Step Question
+                                Retrieval for Open-Domain QA&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Yeon Seonwoo,
+                                Juhee Son, Jiho Jin, Sang-Woo Lee, Ji-Hoon Kim, Jung-Woo Ha, Alice Oh&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">uFACT: Unfaithful
+                                Alien-Corpora Training for Semantically Consistent Data-to-Text Generation&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Tisha Anders,
+                                Alexandru Coca, Bill Byrne&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Unsupervised
+                                Chinese Word Segmentation with BERT Oriented Probing and Transformation&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Wei Li, Yuhan
+                                Song, Qi Su, Yanqiu Shao&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Unsupervised
+                                Preference-Aware Language Identification&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Xingzhang Ren,
+                                Baosong Yang, Dayiheng Liu, Haibo Zhang, Xiaoyu Lv, Liang Yao, jun xie&nbsp;</td>
+                        </tr>
+                        <tr class="footableEven">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">What is wrong
+                                with you?: Leveraging User Sentiment for Automatic Dialog Evaluation&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Sarik Ghazarian,
+                                Behnam Hedayatnia, Alexandros Papangelis, Yang Liu, Dilek Hakkani-Tur&nbsp;</td>
+                        </tr>
+                        <tr class="footableOdd">
+                            <td class="wixColumns footable-first-visible" style="display: table-cell;">Word-level
+                                Perturbation Considering Word Length and Compositional Subwords&nbsp;</td>
+                            <td class="wixColumns footable-last-visible" style="display: table-cell;">Tatsuya Hiraoka,
+                                Sho Takase, Kei Uchiumi, Atsushi Keyaki, Naoaki Okazaki&nbsp;</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <section style="width:100%;margin:0;">
+                <table id="pagerFilter" class="footable footer outerBorder" style="width:100%;margin:0;"
+                    ng-show="settings.tableParams.showHeaderFooter">
+                    <tfoot id="noPager">
+                        <tr>
+                            <td colspan="100%" style="height:26px;"></td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </section>
+        </div><!-- end ngIf: !fixedHeight -->
+    </div>
+</section>
