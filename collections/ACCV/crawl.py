@@ -58,7 +58,7 @@ class Crawl:
 
     def start(self):
         self.parse()
-        self.write()
+        self.write()                                                         
 
     def append_item(self, year, title, attrs=None, type=None):
         if type is not None:
