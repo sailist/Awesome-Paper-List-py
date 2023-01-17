@@ -5,11 +5,9 @@ from collections import Counter
 
 
 class Crawl:
-    def __init__(self, year, file) -> None:
+    def __init__(self) -> None:
         self.dic = {}
-        self.year = year
-        self.file = file
-
+        
     def parse(self):
         pass
 
@@ -50,7 +48,7 @@ class Crawl2020(Crawl):
         soup = BeautifulSoup(res.content.decode(), features="lxml")
         ps = soup.find_all('p')
         ps = [p.get_text().strip() for p in ps]
-        ps = [i.replace(' - ', '. ', 1) for i in ps]
+        ps = [re.sub('^([0-9]+) +- +', '', i) for i in ps]
         for item in ps:
             self.append_item('2020', item)
 
@@ -63,8 +61,8 @@ class Crawl2021(Crawl):
             with open('2021.md', 'w') as w:
                 ps = [p.get_text().strip() for p in ps]
                 ps = [
-                    re.sub('^([0-9]+) ', '\\1. ', i) for i in ps
-                    if re.search('^[0-9]', i)
+                    re.sub('^([0-9]+) *', '', i) for i in ps
+                    if re.search('^([0-9]+) *', i)
                 ]
                 for item in ps:
                     self.append_item('2021', item)
