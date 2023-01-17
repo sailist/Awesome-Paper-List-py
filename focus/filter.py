@@ -1,4 +1,3 @@
-import fire
 from collections import Counter
 from datetime import datetime
 import pandas as pd
@@ -36,7 +35,7 @@ for root, dirs, fs in tqdm(os.walk(root)):
         conf = os.path.basename(os.path.dirname(absf))
         with open(absf) as r:
             for line in r.readlines():
-                line = line.lower().strip()
+                line = line.lower().strip().replace('-','_')
                 match_res = [i.search(line) for i in match_lis]
                 if any(match_res):
                     line = process.sub(r'\1', line)
