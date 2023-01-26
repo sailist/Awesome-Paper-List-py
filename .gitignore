@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_store
 
 # C extensions
 *.so
@@ -130,4 +131,7 @@ dmypy.json
 
 
 *.xlsx
+pdfs/*/*/*.pdf
+pdfs/*/*.pdf
 pdfs/*.pdf
+collections/.DS_Store
