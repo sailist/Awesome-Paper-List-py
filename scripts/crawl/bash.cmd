@@ -1,0 +1,12 @@
+python aaai.py
+python accv.py
+python acl.py
+python acmmm.py
+python bmvc.py
+python cvpr.py
+python eccv.py
+python iccv.py
+python icml.py
+python ijcai.py
+python nips.py
+python wacv.py
