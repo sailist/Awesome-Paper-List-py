@@ -87,4 +87,4 @@ class Crawl:
         print(f'Start crawling for {self.conf_name}')
         self.parse()
         self.write()
-        # self.download()
+        self.download()
