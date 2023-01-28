@@ -73,7 +73,7 @@ class Crawl:
                     res.append(f'{i}. {title} | {attrs}')
             cc[year] += len(res)
             fpath = os.path.join(COLLECTION_ROOT, self.conf_name, f'{k}.md')
-            with open(fpath, 'w') as w:
+            with open(fpath, 'w', encoding='utf-8') as w:
                 w.write('\n'.join(res))
                 print(f' - write {len(res)} papers for {k}.')
         for k, v in cc.items():

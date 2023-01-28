@@ -71,7 +71,7 @@ def group(iters, number):
 
 
 # print(list(generate_fs_list()))
-with open(sync_f, 'a') as w:
+with open(sync_f, 'a', encoding='utf-8') as w:
     for res in group(tqdm(list(generate_fs_list())), 500):
         for f in Parallel(10, verbose=10)(delayed(upload)(f, absf, tgtf)
                                          for f, absf, tgtf in res):
