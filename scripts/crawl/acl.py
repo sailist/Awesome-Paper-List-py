@@ -40,12 +40,12 @@ class ACL(Crawl):
             self.append_item(year, title, attrs=attrs)
 
 
-# ACL('https://aclanthology.org/events/acl-2010/', '2010').start()
-# ACL('https://aclanthology.org/events/acl-2011/', '2011').start()
-# ACL('https://aclanthology.org/events/acl-2012/', '2012').start()
-# ACL('https://aclanthology.org/events/acl-2013/', '2013').start()
-# ACL('https://aclanthology.org/events/acl-2014/', '2014').start()
-# ACL('https://aclanthology.org/events/acl-2015/', '2015').start()
+ACL('https://aclanthology.org/events/acl-2010/', '2010').start()
+ACL('https://aclanthology.org/events/acl-2011/', '2011').start()
+ACL('https://aclanthology.org/events/acl-2012/', '2012').start()
+ACL('https://aclanthology.org/events/acl-2013/', '2013').start()
+ACL('https://aclanthology.org/events/acl-2014/', '2014').start()
+ACL('https://aclanthology.org/events/acl-2015/', '2015').start()
 ACL('https://aclanthology.org/events/acl-2016/', '2016').start()
 ACL('https://aclanthology.org/events/acl-2017/', '2017').start()
 ACL('https://aclanthology.org/events/acl-2018/', '2018').start()
