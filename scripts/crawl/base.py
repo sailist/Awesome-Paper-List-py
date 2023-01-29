@@ -42,8 +42,8 @@ class Crawl:
                 if r.ok:
                     with open(f, 'wb') as w:
                         w.write(r.content)
-            except:
-                print(link)
+            except Exception as e:
+                print(link, e)
                 return link
 
         cand = []
