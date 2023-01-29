@@ -21,7 +21,7 @@ class Crawl:
 
     def process_title(self, title):
         title = re.sub(r'[/:*<>?|]', '-', title)
-        title = re.sub(r'[\\]', '', title)
+        title = re.sub(r"""[\\'"]""", '', title)
         return title
 
     def append_item(self, year, title, attrs=None, type=None):
@@ -48,7 +48,7 @@ class Crawl:
 
         cand = []
         for year, title, link in self.download_links:
-            title = title.strip().replace(':', '').lower()
+            title = title.strip().lower()
             fdir = os.path.join(DOWNLOAD_ROOT, self.conf_name, year)
             os.makedirs(fdir, exist_ok=True)
             fpath = os.path.join(fdir, f'{title}.pdf')
