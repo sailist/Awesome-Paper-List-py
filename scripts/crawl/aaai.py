@@ -27,10 +27,10 @@ def iter_group(div):
 
 
 class AAAI(Crawl):
-    def __init__(self, year, file, type) -> None:
+    def __init__(self, year, link, type) -> None:
         super().__init__()
         self.year = year
-        self.file = file
+        self.link = link
         self.type = type
 
     def parse_pdf(self):
