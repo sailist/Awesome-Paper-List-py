@@ -61,11 +61,11 @@ class AAAI(Crawl):
                 print(item)
                 pdf = pdf_item.attrs['href']
                 attrs['pdf'] = pdf
+                self.append_download_item(year, title, pdf)
                 
             if self.type is not None:
                 attrs['group'] = self.type
             self.append_item(year, title, attrs=attrs)
-            self.append_download_item(year, title, pdf)
 
 
 # if __name__ == '__main__':
