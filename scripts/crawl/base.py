@@ -22,6 +22,7 @@ class Crawl:
     def process_title(self, title):
         title = re.sub(r'[/:*<>?|]', '-', title)
         title = re.sub(r"""[\\'"]""", '', title)
+        title = re.sub('[\t ]+', ' ', title)
         return title
 
     def append_item(self, year, title, attrs=None, type=None):
