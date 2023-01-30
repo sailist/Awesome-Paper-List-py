@@ -22,7 +22,7 @@ class Crawl:
     def process_title(self, title):
         title = re.sub(r'[/:*<>?|]', '-', title)
         title = re.sub(r"""[\\'"]""", '', title)
-        title = re.sub('[\t ]+', ' ', title)
+        title = re.sub('[\t\n ]+', ' ', title)
         return title
 
     def append_item(self, year, title, attrs=None, type=None):
@@ -88,4 +88,4 @@ class Crawl:
         print(f'Start crawling for {self.conf_name}')
         self.parse()
         self.write()
-        self.download()
+        # self.download()
