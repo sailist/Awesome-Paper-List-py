@@ -55,8 +55,13 @@ class AAAI(Crawl):
         for item in items:
             title = item.h3.get_text().strip()
             link = item.h3.a.attrs['href']
-            pdf = item.find('a', class_='pdf').attrs['href']
-            attrs = {'link':link,'pdf':pdf}
+            pdf_item = item.find('a', class_='pdf')
+            attrs = {'link':link}
+            if pdf_item is None:
+                print(item)
+                pdf = pdf_item.attrs['href']
+                attrs['pdf'] = pdf
+                
             if self.type is not None:
                 attrs['group'] = self.type
             self.append_item(year, title, attrs=attrs)
