@@ -57,7 +57,7 @@ class AAAI(Crawl):
             link = item.h3.a.attrs['href']
             pdf_item = item.find('a', class_='pdf')
             attrs = {'link':link}
-            if pdf_item is None:
+            if pdf_item is not None:
                 print(item)
                 pdf = pdf_item.attrs['href']
                 attrs['pdf'] = pdf
