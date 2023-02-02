@@ -26,7 +26,7 @@ def preprocess(f, root):
 
 
 # 只在当前目录下同步 pdf 文件
-cur_dir = os.path.dirname(__file__)
+cur_dir = os.path.dirname(os.path.abspath(__file__))
 sync_f = os.path.join(cur_dir, '.sync')
 
 
