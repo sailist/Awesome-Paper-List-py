@@ -136,3 +136,6 @@ pdfs/*/*/*.pdf
 pdfs/*/*.pdf
 pdfs/*.pdf
 collections/.DS_Store
+
+*.zip
+focus/filter_private.py

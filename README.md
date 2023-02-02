@@ -1,6 +1,6 @@
 # Awosome-Paper-List
 
-This repository collects the list of accepted paper from (deep learning) conference. All lists are crawled by python scripts for later maintenance and analysis. Welcome to contribute.
+This repository collects the list of accepted paper from (currently only deep learning) conferences. All lists are crawled by python scripts for later maintenance and analysis. Welcome to contribute.
 
 # Conference collections
 
@@ -39,7 +39,6 @@ In addition, compressed and uncompressed versions can also be downloaded from Ba
 you can also download [zip version::kfnd](https://pan.baidu.com/s/17mq6Kth4pVu7inuxd-pdEQ) or [uncompressed version::3mm9](https://pan.baidu.com/s/1yDs3E1ClbCLzwSemTfz95w) from baidupan.
 
 > Downloaded pdfs are uploaded via [bypy](https://github.com/houtianze/bypy), and the corresponding scripts are `pdfs/sync-zip-bypy.py` and `pdfs/sync-bypy.py`
-
 
 # Reference
 
