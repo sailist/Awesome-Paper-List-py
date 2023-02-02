@@ -72,7 +72,7 @@ class ICML(Crawl):
                         self.year, title, link)
                 elif 'Supplementary' in at:
                     attrs['supp'] = link
-                elif at == 'Code':
+                elif at == 'Code' or at == 'Code for experiments':
                     attrs['code'] = link
                 elif at in {'Other Files','Software'}:
                     attrs[at] = link

@@ -5,7 +5,7 @@ from collections import Counter
 import re
 
 
-ROOT = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 COLLECTION_ROOT = os.path.join(ROOT, 'collections')
 DOWNLOAD_ROOT = os.path.join(ROOT, 'pdfs')
 

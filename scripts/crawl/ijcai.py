@@ -59,7 +59,6 @@ class IJCAI(Crawl):
                     }[key]
                 except:
                     print(item)
-                    continue
                 attrs[key] = link
                 if key == 'pdf':
                     self.append_download_item(year, title, link)

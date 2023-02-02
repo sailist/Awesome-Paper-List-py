@@ -5,16 +5,15 @@ import os
 import re
 from tqdm import tqdm
 
-root = '../collections'
+ROOT = os.path.dirname(os.path.dirname(__file__))
+COLLECTION_ROOT = os.path.join(ROOT, 'collections')
+CUR_DIR = os.path.dirname(__file__)
 
+# edit this, then execute.
 match_lis = [
     re.compile('emotion [a-z]+|sentiment [a-z]+'),
-    # re.compile('open '),
-    # re.compile('pretrain'),
-    # re.compile('contrastive'),
-    # re.compile('incomplete'),
-    # re.compile('weak.*supervised|semi.*supervised'),
-    # re.compile('video'),
+    re.compile('pretrain'),
+    re.compile('contrastive'),
 ]
 
 rows = []
@@ -23,7 +22,7 @@ process = re.compile('^.+\. +([^|]*)(\|.*)?')
 
 patterns = ' & '.join([i.pattern for i in match_lis])
 
-for root, dirs, fs in tqdm(os.walk(root)):
+for root, dirs, fs in tqdm(os.walk(COLLECTION_ROOT)):
     fs = [i for i in fs if i.endswith('md')]
     for f in fs:
         absf = os.path.join(root, f)
@@ -35,14 +34,14 @@ for root, dirs, fs in tqdm(os.walk(root)):
         conf = os.path.basename(os.path.dirname(absf))
         with open(absf) as r:
             for line in r.readlines():
-                line = line.lower().strip().replace('-','_')
+                line = line.lower().strip().replace(':', '-')
+                line = process.sub(r'\1', line)
                 match_res = [i.search(line) for i in match_lis]
                 if any(match_res):
-                    line = process.sub(r'\1', line)
                     match_f = [(j.group(), 2**score) for i, j, score in zip(
-                   
+
                         match_lis, match_res, reversed(range(len(match_res))))
-                               if j is not None]
+                        if j is not None]
                     patterns = ' & '.join([i[0] for i in match_f])
                     score = sum([i[1] for i in match_f])
                     rows.append([conf, line, patterns, absf, score, year])
@@ -53,8 +52,9 @@ df = pd.DataFrame(
     rows, columns=['conf', 'title', 'pattern', 'source', 'score', 'year'])
 df = df[['year', 'conf', 'score', 'title', 'pattern', 'source']]
 name = datetime.now().strftime('%Y%M%d_%H%M%S.xlsx')
-df.to_excel(name)
+fpath = os.path.join(CUR_DIR, name)
+df.to_excel(fpath)
 
 print(f'Collect {len(df)} papers with distribution {Counter(df["score"])}.')
 
-print(name)
+print(fpath)
