@@ -32,7 +32,7 @@ for root, dirs, fs in tqdm(os.walk(COLLECTION_ROOT)):
             print(f'Ignore {absf}')
             continue
         conf = os.path.basename(os.path.dirname(absf))
-        with open(absf) as r:
+        with open(absf, encoding='utf-8') as r:
             for line in r.readlines():
                 line = line.lower().strip().replace(':', '-')
                 line = process.sub(r'\1', line)
