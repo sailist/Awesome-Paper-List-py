@@ -24,7 +24,7 @@ def upload(root, fs):
         tgt = os.path.join('paper-pdfs-zip', conf, f'{year}.zip')
         bp.upload(zipf, tgt)
         os.remove(zipf)
-        with open(f'.{year}.sync', 'w'):
+        with open(f'.{year}.sync', 'w', encoding='utf-8'):
             pass
 
 

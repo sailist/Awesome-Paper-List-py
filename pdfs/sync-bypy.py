@@ -32,7 +32,7 @@ sync_f = os.path.join(cur_dir, '.sync')
 
 def generate_fs_list():
     if os.path.exists(sync_f):
-        with open(sync_f) as r:
+        with open(sync_f, encoding='utf-8') as r:
             sync_fs = set([i.strip() for i in r.readlines()])
             # 忽略百度云删除的情况，全量同步删除 .sync 即可
     else:
@@ -74,5 +74,5 @@ def group(iters, number):
 with open(sync_f, 'a', encoding='utf-8') as w:
     for res in group(tqdm(list(generate_fs_list())), 500):
         for f in Parallel(10, verbose=10)(delayed(upload)(f, absf, tgtf)
-                                         for f, absf, tgtf in res):
+                                          for f, absf, tgtf in res):
             w.write(f'{f}\n')
