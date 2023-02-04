@@ -1,4 +1,4 @@
-# Awosome-Paper-List
+# Awesome-Paper-List
 
 This repository collects the list of accepted paper from (currently only deep learning) conferences. All lists are crawled by python scripts for later maintenance and analysis. Welcome to contribute.
 
